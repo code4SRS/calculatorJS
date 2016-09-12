@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>The Calculator Project</title>
 <style>
 html, body {
     /*height:100%;*/
@@ -17,7 +17,7 @@ html, body {
 </head>
 
 <body>
-<h3>The Calculator Project</h3>
+<h3>Calculator Project Demo</h3>
 <hr>
 </body>
 </html>
